@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,400;0,700;0,800;1,700;1,800&family=Space+Grotesk:wght@400;700;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Space Grotesk', system-ui, sans-serif;
+  --font-display: 'Plus Jakarta Sans', system-ui, sans-serif;
+  
+  --color-neoyellow: #FFFBF0;
+  --color-neoorange: #FF9933;
+  --color-neogreen: #138808;
+}
+
+@utility shadow-neo-sm {
+  box-shadow: 2px 2px 0px 0px rgba(0, 0, 0, 1);
+}
+
+@utility shadow-neo-md {
+  box-shadow: 4px 4px 0px 0px rgba(0, 0, 0, 1);
+}
+
+@utility shadow-neo-lg {
+  box-shadow: 8px 8px 0px 0px rgba(0, 0, 0, 1);
+}

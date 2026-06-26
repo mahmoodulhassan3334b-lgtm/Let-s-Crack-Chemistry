@@ -1,0 +1,6 @@
+{
+  "name": "South Asian Recipes & Spice Shop",
+  "description": "A colorful, interactive cooking platform featuring authentic Pakistani & Indian recipes with advanced spice level filters, ingredient matching, saved favorites, password protection, and integrated spice kits e-commerce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
